@@ -6,6 +6,8 @@ public class armstrong_number
 {
 public static void main(String[] args) 
 {
+	
+	
 	Scanner s = new Scanner(System.in);
 	int number = s.nextInt();
 	System.out.println("Enter a number ");
